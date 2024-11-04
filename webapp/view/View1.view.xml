@@ -5,6 +5,7 @@
         <content >
         <Text id="_IDGenText" text="hiiiehjrtii.."></Text>  
         <Text id="_IDsGefdfgdnText" text="hello.."></Text>        
+        <Text id="_ID4sGefdfgdnText" text="test.."></Text>        
         </content>
     </Page>
 </mvc:View>
