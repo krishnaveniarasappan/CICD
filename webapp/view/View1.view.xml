@@ -4,8 +4,7 @@
     <Page id="page" title="{i18n>title}">
         <content >
         <Text id="_IDGenText" text="Hii.."></Text>  
-        <Text id="_IDsGefdfgdnText" text="hello.."></Text>        
-        <Text id="_ID4sGefdfgdnText" text="test.."></Text>        
+        <Text id="_IDsGefdfgdnText" text="hello.."></Text>                     
         </content>
     </Page>
 </mvc:View>
