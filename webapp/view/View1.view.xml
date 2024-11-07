@@ -5,7 +5,7 @@
         <content >       
         <Text id="_IDsGefdfgdnText" text="hello.."></Text>   
         <Text id="_IDsGefdfgdnT1ext" text="Testing"></Text>  
-        <Text id="_IDsGefdfgdnT1e1xt" text="Testing1"></Text>                     
+        <Text id="_IDsGefdfgdnT1e1xt" text="Testing2"></Text>                     
         </content>
     </Page>
 </mvc:View>
