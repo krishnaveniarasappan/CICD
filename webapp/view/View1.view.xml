@@ -5,7 +5,8 @@
         <content >       
         <Text id="_IDsGefdfgdnText" text="hello.."></Text>   
         <Text id="_IDsGefdfgdnT1ext" text="Testing"></Text>  
-        <Text id="_IDsGefdfgdnT1e18xt" text="Testing3"></Text>                     
+        <Text id="_IDsGefdfgdnT1e18xt" text="Testing3"></Text>        
+        <Button id="_IDGenButton" text="Submit"              />
         </content>
     </Page>
 </mvc:View>
